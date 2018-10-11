@@ -2,5 +2,8 @@
 - name: geerlingguy.docker
   version: 2.1.0
 
+- name: bertvv.rh-base
+  version: 2.3.0
+
 - name: bertvv.samba
   version: v2.5.0

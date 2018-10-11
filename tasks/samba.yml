@@ -1,0 +1,8 @@
+--
+- name: Install some packages for SAMBA
+  yum:
+    name:
+      - avahi
+    state: present
+
+
